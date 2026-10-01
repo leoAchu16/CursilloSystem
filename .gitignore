@@ -1,0 +1,5 @@
+cursillo-common/
+cursillo-ms-*/
+cursillo-ui/
+.idea/
+target/

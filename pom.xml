@@ -20,6 +20,7 @@
         <module>cursillo-common</module>
         <module>cursillo-ms-notas</module>
         <module>cursillo-ms-inscripciones</module>
+        <module>cursillo-ms-facturas</module>
     </modules>
 
     <properties>

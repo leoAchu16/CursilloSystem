@@ -21,6 +21,7 @@
         <module>cursillo-ms-notas</module>
         <module>cursillo-ms-inscripciones</module>
         <module>cursillo-ms-facturas</module>
+        <module>cursillo-api-gateway</module>
     </modules>
 
     <properties>

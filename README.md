@@ -21,3 +21,8 @@ Clonar todos los repos en la misma carpeta:
 ## Build
 
     mvn clean install -DskipTests
+## Ejecutar microservicios
+
+- En Windows:
+  $env:SUPABASE_DB_PASSWORD="Cursillo-12345678"
+  mvn spring-boot:run

@@ -1,3 +1,5 @@
+logs/
+cursillo-eureka-server/
 cursillo-api-gateway/
 cursillo-common/
 cursillo-ms-*/
